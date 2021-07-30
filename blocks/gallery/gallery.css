@@ -1,25 +1,25 @@
-.grid {
-  display: grid;
-  grid-gap: 16px;
-  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+.gallery {
   max-width: 1184px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+  grid-gap: 16px;
   margin: 0 auto 92px;
   padding: 0 48px;
 }
 @media screen and (max-width: 1025px) {
-  .grid {
+  .gallery {
     grid-gap: 14px;
   }
 }
-@media screen and (max-width: 800px) {
-  .grid {
+@media screen and (max-width: 768px) {
+  .gallery {
     grid-gap: 16px;
     padding: 0 24px;
     margin-bottom: 88px;
   }
 }
-@media screen and (max-width: 340px) {
-  .grid {
+@media screen and (max-width: 320px) {
+  .gallery {
     grid-gap: 12px;
     padding: 0 16px;
   }
