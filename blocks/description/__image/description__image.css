@@ -5,17 +5,26 @@
     width: 100%;
     object-fit: cover;
   }
-  @media screen and (max-width: 1025px) {
+
+  @media screen and (max-width: 1280px) {
+    .description__image {
+      margin-top: 64px;
+    }
+  }
+
+  @media screen and (max-width: 1024px) {
     .description__image {
       margin-top: 56px;
     }
   }
-  @media screen and (max-width: 769px) {
+
+  @media screen and (max-width: 768px) {
     .description__image {
-      max-width: 928px;
+      max-width: 768px;
     }
   }
-  @media screen and (max-width: 450px) {
+  
+  @media screen and (max-width: 320px) {
     .description__image {
       margin-top: 40px;
     }

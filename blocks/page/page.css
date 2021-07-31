@@ -10,7 +10,8 @@
     text-rendering: optimizeLegibility;
     min-width: 320px;
   }
-  @media screen and (max-width: 450px) {
+  
+  @media screen and (max-width: 320px) {
     .page {
       padding-top: 16px;
     }

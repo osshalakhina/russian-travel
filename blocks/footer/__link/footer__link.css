@@ -9,9 +9,11 @@
     text-decoration: none;
     transition: opacity .5s linear;
   }
+
   .footer__link:last-of-type {
     margin-right: 0;
   }
+
   .footer__link:hover {
     opacity: 0.8;
   }
@@ -23,6 +25,7 @@
       margin-bottom: 32px;
       margin-right: 0;
     }
+    
     .footer__link:last-of-type {
       margin-bottom: 0;
     }

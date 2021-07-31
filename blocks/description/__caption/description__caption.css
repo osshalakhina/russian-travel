@@ -7,8 +7,15 @@
     letter-spacing: 0.15em;
     text-transform: uppercase;
   }
-  @media screen and (max-width: 769px) {
+
+  @media screen and (max-width: 768px) {
     .description__caption {
       padding: 0 24px;
+    }
+  }
+
+  @media screen and (max-width: 320px) {
+    .description__caption {
+      padding: 0 16px;
     }
   }

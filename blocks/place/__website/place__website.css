@@ -2,7 +2,8 @@
     align-self: end;
     justify-self: start;
   }
-  @media screen and (max-width: 600px) {
+  
+  @media screen and (max-width: 320px) {
     .place__website {
       display: none;
     }

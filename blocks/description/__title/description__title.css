@@ -1,0 +1,26 @@
+.description__title {
+    text-align: center;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 1.04;
+    margin: 0 auto 32px;
+}
+
+@media screen and (max-width: 992px) {
+    .description__title {
+        font-size: 96px;
+        line-height: 100px;
+        max-width: 720px;
+        margin: 0 24px 16px 24px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .description__title {
+        margin: 0 auto 16px;
+        font-size: 40px;
+        line-height: 1.1;
+        max-width: 288px;
+    }
+}

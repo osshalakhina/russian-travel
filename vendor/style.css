@@ -1,0 +1,8 @@
+@import "./normalize.css";
+@import "./global.css";
+/* include normalize top level*/
+@import "./fonts/fonts.css";
+@import "../pages/index.css";
+
+
+

@@ -8,6 +8,7 @@
   color: white;
   font-family: Inter, Arial, Helvetica, sans-serif;
 }
+
 @media screen and (max-width: 769px) {
   .introduction{
     padding: 0 24px;
@@ -15,7 +16,8 @@
     margin-bottom: 88px;
   }
 }
-@media screen and (max-width: 330px) {
+
+@media screen and (max-width: 320px) {
   .introduction{
     padding: 0 16px;
     margin-bottom: 64px;

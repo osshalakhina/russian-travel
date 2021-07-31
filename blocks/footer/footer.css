@@ -8,11 +8,13 @@
   color: white;
   font-family: Inter, Arial, Helvetica, sans-serif;
 }
-@media screen and (max-width: 830px) {
+
+@media screen and (max-width: 735px) {
   .footer{
     padding: 0 24px 24px;
   }
 }
+
 @media screen and (max-width: 735px) {
   .footer{
     flex-direction: column;
