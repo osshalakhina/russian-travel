@@ -41,4 +41,4 @@
 
 ### Ссылка на проект: 
 ------ 
-[Ссылка на макет в Figma](file:///Users/olgashalakhina/Desktop/russian-travel/index.html)
+[Ссылка на прект](file:///Users/olgashalakhina/Desktop/russian-travel/index.html)
