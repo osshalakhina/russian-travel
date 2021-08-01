@@ -3,13 +3,8 @@
     grid-template-columns: 47% 49%;
     color: white;
     font-family: Inter, Arial, Helvetica, sans-serif;
-}
-
-@media screen and (max-width: 1280px) {
-    .place {
-        margin-bottom: 80px;
-        grid-gap: 48px 40px;
-    }
+    margin-bottom: 80px;
+    grid-gap: 48px 40px;
 }
 
 @media screen and (max-width: 1024px) {

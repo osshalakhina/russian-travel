@@ -2,16 +2,11 @@
   display: flex;
   flex-direction: column;
   margin: 0 auto;
+  margin-bottom: 92px;
+  padding: 0 148px;
   box-sizing: border-box;
   font-family: Inter, Arial, Helvetica, sans-serif;
   color: white;
-}
-
-@media screen and (max-width: 1280px) {
-  .description {
-    margin-bottom: 92px;
-    padding: 0 148px;
-  }
 }
 
 @media screen and (max-width: 1024px) {

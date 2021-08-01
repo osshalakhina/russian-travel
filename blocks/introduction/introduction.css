@@ -3,16 +3,11 @@
   flex-direction: column;
   align-items: flex-start;
   margin: 0 auto;
+  padding: 0 148px;
+  max-width: 984px;
+  margin-bottom: 92px;
   color: white;
   font-family: Inter, Arial, Helvetica, sans-serif;
-}
-
-@media screen and (max-width: 1280px) {
-  .introduction{
-    padding: 0 148px;
-    max-width: 984px;
-    margin-bottom: 92px;
-  }
 }
 
 @media screen and (max-width: 1024px) {

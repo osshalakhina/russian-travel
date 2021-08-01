@@ -1,14 +1,9 @@
 .description__image {
-    margin: 64px 0 8px;
+    margin: 64px auto 8px;
     width: 100%;
     object-fit: cover;
-  }
-
-  @media screen and (max-width: 1280px) {
-    .description__image {
-      max-width: 984px;
-      margin-top: 64px;
-    }
+    max-width: 984px;
+    margin-top: 64px;
   }
 
   @media screen and (max-width: 1024px) {
