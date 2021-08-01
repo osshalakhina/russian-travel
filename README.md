@@ -41,4 +41,4 @@
 
 ### Ссылка на проект: 
 ------ 
-[Ссылка на проект](https://github.com/osshalakhina/russian-travel)
+[Ссылка на проект](https://osshalakhina.github.io/russian-travel/)
