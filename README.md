@@ -41,4 +41,4 @@
 
 ### Ссылка на проект: 
 ------ 
-[Ссылка на прект](.DS_Store)
+[Ссылка на прект](https://github.com/osshalakhina/russian-travel)
