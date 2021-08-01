@@ -8,13 +8,6 @@
     text-transform: uppercase;
   }
 
-  @media screen and (max-width: 1280px) {
-    .description__caption {
-      padding: 0;
-      margin: 0;
-    }
-  }
-
   @media screen and (max-width: 768px) {
     .description__caption {
       padding: 0 24px;
