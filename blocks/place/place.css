@@ -1,26 +1,32 @@
 .place {
     display: grid;
     grid-template-columns: 47% 49%;
-    grid-gap: 48px 40px;
-    margin-bottom: 80px;
     color: white;
     font-family: Inter, Arial, Helvetica, sans-serif;
 }
 
 @media screen and (max-width: 1280px) {
     .place {
-        grid-gap: 148px 40px;
+        margin-bottom: 80px;
+        grid-gap: 48px 40px;
     }
 }
 
 @media screen and (max-width: 1024px) {
+    .place {
+        margin-bottom: 80px;
+        grid-gap: 48px 32px;
+    }
+}
+
+@media screen and (max-width: 767px) {
     .place {
         margin-bottom: 72px;
         grid-gap: 24px 28px;
     }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 320px) {
     .place {
         grid-template-columns: 100%;
         grid-gap: 16px;

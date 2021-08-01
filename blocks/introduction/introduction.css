@@ -2,11 +2,25 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  max-width: 928px;
-  margin: 0 auto 92px;
-  padding: 0 48px;
+  margin: 0 auto;
   color: white;
   font-family: Inter, Arial, Helvetica, sans-serif;
+}
+
+@media screen and (max-width: 1280px) {
+  .introduction{
+    padding: 0 148px;
+    max-width: 984px;
+    margin-bottom: 92px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .introduction{
+    padding: 0 286px 0 48px;
+    max-width: 690px;
+    margin: 0 auto 92px;
+  }
 }
 
 @media screen and (max-width: 769px) {
