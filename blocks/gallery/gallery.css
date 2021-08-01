@@ -7,12 +7,6 @@
   padding: 0 48px;
 }
 
-@media screen and (max-width: 1280px) {
-  .gallery {
-    grid-gap: 16px;
-  }
-}
-
 @media screen and (max-width: 1025px) {
   .gallery {
     grid-gap: 14px;
