@@ -41,4 +41,4 @@
 
 ### Ссылка на проект: 
 ------ 
-[Ссылка на прект](file:///Users/olgashalakhina/Desktop/russian-travel/index.html)
+[Ссылка на прект](.DS_Store)
