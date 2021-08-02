@@ -34,7 +34,7 @@
 
 ### Ссылка на макет в Figma: 
 
-[https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+[https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 ### Ссылка на проект: 
 
@@ -42,6 +42,7 @@
 
 ------ 
 ### Project 3: Traveling in Russia
+------ 
 
 ### About project:
 
@@ -75,7 +76,7 @@ The layout was applied in Figma, which included:
 
 ### Link on layout in Figma: 
 
-[https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+[https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 ### Link on project: 
 
