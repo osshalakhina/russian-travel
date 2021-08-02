@@ -1,11 +1,11 @@
 .description__caption {
-    margin: 0;
     font-style: normal;
     font-weight: 400;
     font-size: 10px;
     line-height: 1.4;
     letter-spacing: 0.15em;
     text-transform: uppercase;
+    margin: 0;
   }
 
   @media screen and (max-width: 768px) {
@@ -19,3 +19,4 @@
       padding: 0 16px;
     }
   }
+  
