@@ -48,4 +48,4 @@ The layout was applied in Figma, which included:
 
 * in different sizes
 
-![](./images/Project_1.gif)
+![](./images/Project_2.gif)
