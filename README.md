@@ -42,4 +42,10 @@ The layout was applied in Figma, which included:
 
 # Preview
 
-![](./images/..)
+* in general
+
+![](./images/Project_1.gif)
+
+* in different sizes
+
+![](./images/Project_1.gif)
